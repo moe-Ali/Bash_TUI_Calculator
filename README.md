@@ -1,5 +1,5 @@
 # Bash_Calculator
-### This is a Bash Script that is a TUI(TextBased User Interface) Calculator done without using any calculating commands which contains:
+#### This is a Bash Script that is a TUI(TextBased User Interface) Calculator done without using any calculating commands which contains:
 - Main page:
 - The Calculator
   - Standard Page: contains the normal mathematical operations 
