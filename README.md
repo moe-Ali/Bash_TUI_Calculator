@@ -12,7 +12,9 @@
 ## To run the script use:
 ```
 bash calculator.sh
+```
 or
+```
 chmod +x calculator.sh
 ./calculator.sh
 ```
