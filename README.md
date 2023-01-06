@@ -15,6 +15,5 @@ bash calculator.sh
 ```
 or
 ```
-chmod +x calculator.sh
-./calculator.sh
+chmod +x calculator.sh; ./calculator.sh
 ```
