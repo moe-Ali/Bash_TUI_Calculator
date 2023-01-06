@@ -8,3 +8,11 @@
       (Base Converting, AND, OR, NOT, NOR, NAND, XOR, Shift Right, Shift Left)
 - Description
 - Team Member
+
+## To run the script use:
+```
+bash calculator.sh
+or
+chmod +x calculator.sh
+./calculator.sh
+```
